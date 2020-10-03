@@ -13,5 +13,19 @@ body{
 	margin:0 auto;
 	top:50%;
 	left: 50%;
-	margin: -200px 0 0 -250px;
+	margin: -125px 0 0 -100px;
+	border-radius:25px;
+}
+
+#Login{
+	font-family: Arial;
+}
+
+#registered{
+	font-family: Arial;
+	font-size: .5em;
+}
+
+#form1{
+	padding-top:10px;
 }
