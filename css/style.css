@@ -8,7 +8,7 @@ body{
 	background-repeat:no-repeat;
 	background-color:white;
 	text-align: center;
-	width: 200px;
+	width: 220px;
 	height: 250px;
 	margin:0 auto;
 	top:50%;
@@ -28,4 +28,14 @@ body{
 
 #form1{
 	padding-top:10px;
+}
+
+#form1 input{
+	background-color:#f2f2f2;
+	border-radius:10px;
+	border:0;
+	margin: 0 0 15px;
+	width:95%;
+	padding:15px;
+	box-sizing: border-box;
 }
