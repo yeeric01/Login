@@ -1,0 +1,10 @@
+body{
+	background-image:url(../images/comet.jpg);
+	background-size: 100%;
+}
+
+#block{
+	background-color:white;
+	text-align: center;
+	width:400px;
+}
